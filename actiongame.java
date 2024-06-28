@@ -2,10 +2,10 @@
 
 import java.util.Scanner;
 
-public class SheldonMcClish_actiongame
+public class psychattackk_actiongame
 {	
 
-	SheldonMcClish_gameboard board = new SheldonMcClish_gameboard();
+	psychattackk_gameboard board = new psychattackk_gameboard();
 	Scanner input = new Scanner(System.in);
 
 	// Variables
