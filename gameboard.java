@@ -3,7 +3,7 @@
 import java.util.Random; 
 import java.util.Scanner;
 
-public class SheldonMcClish_gameboard
+public class psychattackk_gameboard
 {
 	Random rand = new Random();
 	Scanner input = new Scanner(System.in);
